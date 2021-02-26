@@ -6,6 +6,7 @@ This is a [Zephyr](https://www.zephyrproject.org/)-based firmware for the
 <img src="app/hypnos/watch_photo.jpg" title="Hypnos watch (CC BY-SA 4.0)">
 
 > **Hypnos**, son of Night and Darkness</br>
+
 > He is said to be a calm and gentle god, as he helps humans in need and, due to their sleep, owns
 > half of their lives.<sup>[1](https://en.wikipedia.org/wiki/Hypnos)</sup>
 
