@@ -13,6 +13,7 @@ This is a [Zephyr](https://www.zephyrproject.org/)-based firmware for the
 
 - [x] 100 % Free Software
 - [x] Battery life: about one week
+
 - [x] Battery status: get state of charge and whether it's charging
 - [x] Clock: accurately increment current time
 - [x] Time and date synchronization with Bluetooth-connected device
